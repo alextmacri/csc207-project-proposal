@@ -14,6 +14,7 @@ Sample call of the API:
 ![Postman](https://i.imgur.com/TCAzvsi.png)
 
 Example output of Java code:
+
 ![Java Code](https://i.imgur.com/Lu5JhAx.png)
 # Potential Technical Problems
 - Securely implementing encryption/decryption for our password manager using cryptography (Would need to find a Java library to help with this or learn how to do so from scratch)
